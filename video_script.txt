@@ -1,0 +1,20 @@
+2-3 Minute Video Walkthrough Script
+
+Intro (0:00-0:10)
+- Hello, I'm Yagneswari. This is my Companies Directory frontend assignment built using React and Tailwind CSS.
+
+Overview (0:10-0:25)
+- The application lists companies from a mock JSON and allows users to search, filter by location and industry, sort by name, and navigate with pagination.
+
+Code walkthrough (0:25-1:00)
+- Show project structure: src/components (CompanyCard, Filter, Pagination), src/pages/Home.js, public/data/companies.json.
+- Explain key files: Home handles data fetch and pagination; Filter manages filters and sorting.
+
+Demo (1:00-2:20)
+- Show loading state (if simulating), search by typing 'Amazon' or 'Bangalore', choose a location, choose an industry, sort A-Z and Z-A, reset filters, and navigate pages.
+
+Approach & decisions (2:20-2:40)
+- Tailwind chosen for quick, responsive styling; axios for API calls; react-paginate for pagination.
+
+Closing (2:40-3:00)
+- Mention GitHub repo link and Netlify live demo link. Thank you.

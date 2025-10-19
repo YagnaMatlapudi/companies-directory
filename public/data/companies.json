@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "location": "California",
+    "industry": "Technology"
+  },
+  {
+    "id": 2,
+    "name": "Microsoft",
+    "location": "Washington",
+    "industry": "Software"
+  },
+  {
+    "id": 3,
+    "name": "Amazon",
+    "location": "Seattle",
+    "industry": "E-commerce"
+  },
+  {
+    "id": 4,
+    "name": "Tesla",
+    "location": "California",
+    "industry": "Automobile"
+  },
+  {
+    "id": 5,
+    "name": "Infosys",
+    "location": "Bangalore",
+    "industry": "IT Services"
+  },
+  {
+    "id": 6,
+    "name": "Meta",
+    "location": "California",
+    "industry": "Social Media"
+  },
+  {
+    "id": 7,
+    "name": "Apple",
+    "location": "California",
+    "industry": "Technology"
+  },
+  {
+    "id": 8,
+    "name": "Flipkart",
+    "location": "Bangalore",
+    "industry": "E-commerce"
+  }
+]
